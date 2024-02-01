@@ -54,7 +54,7 @@ Tart and snappy, the flavors of lime flesh and rind dominate. Some green pineapp
 After normalizing text-----
 
 Tart and snappy, the flavors of lime flesh and rind dominate. Some green pineapple pokes through, with crisp acidity underscoring the flavors. The wine was all stainless-steel fermented.
-We can see a huge difference after normalizing our text. Now we can see our text is more manageable. This will help us to explore the reviews and later making summarizer.
+Now we can see our text is more manageable. This will help us to explore the reviews and later making summarizer.
 
 We are also seeing that there are some punctuation and stopwords. We also don't need them. In the first place, I don't remove them because we are gonna need this in future when we will make summarizer. So let's make another column that will store our normalized text without punctuation and stopwords.
 
